@@ -1,0 +1,29 @@
+body{font-family: 'Otomanopee One', sans-serif;
+margin: 0;}
+h1{
+    font-size: 50px;
+}
+section{
+    display: flex;
+}
+.orange-color{
+    color: orange;
+}
+.half-width{
+
+    width: 50%;
+    padding-left: 5%;
+}
+.half-width img {
+    width: 100%;
+}
+.hire-button{
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    padding: 8px 30px;
+    border-radius: 5px;
+}
+.top-banner{
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+}
