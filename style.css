@@ -5,6 +5,7 @@ h1{
 }
 section{
     display: flex;
+    margin-bottom: 150PX;
 }
 .orange-color{
     color: orange;
@@ -26,4 +27,10 @@ section{
 .top-banner{
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
+}
+.second{
+
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+background-position: right;
 }
